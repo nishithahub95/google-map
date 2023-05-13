@@ -6,7 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-     ![Screenshot_20230513-151344](https://github.com/nishithahub95/google-map/assets/123442720/ca1314e2-a8c2-44ec-ae09-4a09d364e0d7)
+
+
+![Screenshot_20230513-151344](https://github.com/nishithahub95/google-map/assets/123442720/ca1314e2-a8c2-44ec-ae09-4a09d364e0d7)
 ![Screenshot_20230513-164745](https://github.com/nishithahub95/google-map/assets/123442720/5f6ace96-3f07-495f-a806-822dda49fcbe)
 ![Screenshot_20230504-172103](https://github.com/nishithahub95/google-map/assets/123442720/995f25e1-a2df-4f62-aff1-72fcc315ef2a)
 ![Screenshot_20230513-164734](https://github.com/nishithahub95/google-map/assets/123442720/896d2924-20a4-4ab9-866e-a1be626b8655)
