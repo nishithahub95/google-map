@@ -23,5 +23,4 @@ marker info
 ![Screenshot_20230503-154440](https://github.com/nishithahub95/google-map/assets/123442720/40582763-3363-4d5e-ad9e-4c1e6074286a)
 custom marker info
 ![Screenshot_20230504-170936](https://github.com/nishithahub95/google-map/assets/123442720/0bfbc37b-b642-4485-b2fb-cb1aea3a5c97)
-![Screenshot_20230513-151344](https://github.com/nishithahub95/google-map/assets/123442720/39bd6bd4-1dba-4caa-8aa8-9c6788aea5a9)
 
